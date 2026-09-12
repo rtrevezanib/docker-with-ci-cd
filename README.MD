@@ -162,4 +162,4 @@ docker run -d -p 3000:3000 YOUR_DOCKERHUB_USERNAME/my-api:latest
 
 ## Author
 
-**Renan** — [GitHub](https://github.com/rtrevezanib 
+**Renan** — [GitHub](https://github.com/rtrevezanib) 
